@@ -31,17 +31,17 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "老婆",
+      name: "瑶瑶~",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ohxOO6VskY2v40Kuf5ywIZVRM3puXhk",
+      id: "oiKdI67L3LGAwD9xq9mnnbP7RgMU",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "Wue80GrtY1nAi5a4tam4FDxZF59WNx9pwcBc06LMpANnu8",
+      useTemplateId: "_6hzt5NldBbGBi7m8FRiG6gm7PI_z8yQ0OhmSIpWIt4",
       // 所在省份
-      province: "广东",
+      province: "西安",
       // 所在城市
-      city: "肇庆",
+      city: "长安区",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "https://wangxinleo.cn"
+      openUrl: "https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F"
     }, 
     {
       name: "老婆1", 
@@ -82,7 +82,7 @@ export const config = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "d8914dbbe4b570dc9ccae9f6681ada00",
+      id: "oiKdI69t78plYwXMbOV4vd1dr1uQ",
     }, 
   ],
     

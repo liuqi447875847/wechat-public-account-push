@@ -18,30 +18,54 @@ export const config = {
    * [
    *  {
    *    // 想要发送的人的名字
-   *    name: "老婆0",
+   *    name: "瑶瑶~",
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-   *    id: "ohxOO6VskYv0Kuf-ywIZVRMpuXhk",
+   *    id: "oiKdI67L3LGAwD9xq9mnnbP7RgMU",
    *    // 你想对他发送的模板消息的模板ID
-   *    useTemplateId: "zjVglIuCXo4CsraXWEio1iP7sZJ7IQEES9lDsgc4yOU",
+   *    useTemplateId: "_6hzt5NldBbGBi7m8FRiG6gm7PI_z8yQ0OhmSIpWIt4",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-   *    openUrl: "https://wangxinleo.cn"
+   *    openUrl: "https://weibo.com/"
    *   }, 
    * ]
    */
   USERS: [
     {
       // 想要发送的人的名字
-      name: "瑶瑶~",
+      name: "老婆0",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oiKdI67L3LGAwD9xq9mnnbP7RgMU",
+      id: "ohxOO6VskY2v40Kuf5ywIZVRM3puXhk",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "_6hzt5NldBbGBi7m8FRiG6gm7PI_z8yQ0OhmSIpWIt4",
+      useTemplateId: "Wue80GrtY1nAi5a4tam4FDxZF59WNx9pwcBc06LMpANnu8",
       // 所在省份
-      province: "陕西",
+      province: "广东",
       // 所在城市
-      city: "西安",
+      city: "肇庆",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F"
+      openUrl: "https://wangxinleo.cn"
+    }, 
+    {
+      name: "老婆1", 
+      id: "",
+      useTemplateId: "",
+      province: "",
+      city: "",
+      openUrl: "https://wangxinleo.cn"
+    }, 
+    {
+      name: "老婆2",
+      id: "",
+      useTemplateId: "",
+      province: "",
+      city: "",
+      openUrl: "https://wangxinleo.cn"
+    }, 
+    {
+      name: "老婆3", 
+      id: "",
+      useTemplateId: "",
+      province: "",
+      city: "",
+      openUrl: "https://wangxinleo.cn"
     }, 
   ],
 

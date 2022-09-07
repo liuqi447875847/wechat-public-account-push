@@ -37,9 +37,9 @@ export const config = {
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "_6hzt5NldBbGBi7m8FRiG6gm7PI_z8yQ0OhmSIpWIt4",
       // 所在省份
-      province: "西安",
+      province: "陕西",
       // 所在城市
-      city: "长安区",
+      city: "西安",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F"
     }, 

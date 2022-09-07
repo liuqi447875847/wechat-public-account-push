@@ -44,12 +44,12 @@ export const config = {
       openUrl: "https://weibo.com/"
     }, 
     {
-      name: "老婆1", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
+      name: "我呀~", 
+      id: "oiKdI69t78plYwXMbOV4vd1dr1uQ",
+      useTemplateId: "_6hzt5NldBbGBi7m8FRiG6gm7PI_z8yQ0OhmSIpWIt4",
+      province: "上海市",
+      city: "嘉定区",
+      openUrl: "https://weibo.com/"
     }, 
     {
       name: "老婆2",

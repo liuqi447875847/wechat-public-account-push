@@ -45,7 +45,7 @@ export const config = {
     }, 
     {
       name: "我呀~", 
-      id: "oiKdI69t78plYwXMbOV4vd1dr1uQ",
+      id: "oO8nw6hsM_4YtddegpsyNNQoFvRo",
       useTemplateId: "_6hzt5NldBbGBi7m8FRiG6gm7PI_z8yQ0OhmSIpWIt4",
       province: "河南",
       city: "安阳",

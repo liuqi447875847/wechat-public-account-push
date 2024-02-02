@@ -46,7 +46,7 @@ export const config = {
     {
       name: "我呀~", 
       id: "oO8nw6hsM_4YtddegpsyNNQoFvRo",
-      useTemplateId: "_6hzt5NldBbGBi7m8FRiG6gm7PI_z8yQ0OhmSIpWIt4",
+      useTemplateId: "jOmYd_p02pGuCR1NkwJXUKELQ9NwV6x2lH7p-s76Xpw",
       province: "河南",
       city: "安阳",
       openUrl: "https://weibo.com/"
